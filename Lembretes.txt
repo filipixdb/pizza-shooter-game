@@ -1,0 +1,16 @@
+- naum carregar os sons a cada troca de cenário
+
+- refazer o confere grude
+
+- pegar o sen e o cos da velocidade qnd gruda, e inverter
+
+- mudar o confere ataque >>colocar float e sqrtf()
+
+
+
+
+
+
+
+
+void confere grude, linha 214
